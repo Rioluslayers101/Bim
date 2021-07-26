@@ -1,0 +1,155 @@
+
+.fondo{
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(243.39deg, #033859 0.31%, #0F9FBF 100%);
+}
+
+.flexbox{
+    /* Rectangle 2 */
+position: fixed;
+width: 724px;
+height: 478px;
+left: 360px;
+top: 284px;
+bottom: 262px;
+
+background: #033859;
+border-radius: 18px;
+}
+
+.texto{
+
+position: fixed;
+width: 240px;
+height: 108px;
+left: 438px;
+top: calc(60% - 108px/2 - 131px);
+
+font-family: Griffy;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 108px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+.H{
+    /* Ekko, un prodigio surgido de las implacables calles de Zaun, manipula el tiempo para sacar ventaja de todas las situaciones. Con una máquina de su invención llamada Dispositivo Z, explora las distintas posibilidades de la realidad hasta alcanzar el momento ideal. */
+
+position: fixed;
+width: 328px;
+height: 218px;
+left: 394px;
+top: 449px;
+
+font-family: Grenze Gotisch;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.barra{
+
+position: fixed;
+width: 723px;
+height: 4px;
+left: 361px;
+top: 667px;
+
+background: #39F66B;
+}
+.img{
+
+position: fixed;
+width: 570px;
+height: 340px;
+left: 735px;
+top: 320px;
+
+background: url(lol.png);
+}
+
+.Logo{
+ 
+/* Vector */
+
+position: fixed;
+left: 685.69px;
+right: 681.69px;
+top: 255.53px;
+bottom: 698.54px;
+
+
+
+}
+
+.habilidades1{
+
+position: fixed;
+width: 52px;
+height: 52px;
+left: 506px;
+top: 685px;
+
+
+
+}
+
+.habilidades2{
+/* image 3 */
+
+position: fixed;
+width: 55px;
+height: 52px;
+left: 588px;
+top: 685px;
+
+
+
+}
+.habilidades3{
+  /* image 4 */
+
+position: fixed;
+width: 52px;
+height: 52px;
+left: 685px;
+top: 685px;
+
+
+  
+}
+.habilidades4{
+   /* image 5 */
+
+position: fixed;
+width: 53px;
+height: 52px;
+left: 779px;
+top: 685px;
+
+
+ 
+}
+.habilidades5{
+   /* image 6 */
+
+position:fixed;
+width: 60px;
+height: 52px;
+left: 874px;
+top: 685px;
+
+
+ 
+}
